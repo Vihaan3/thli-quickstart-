@@ -17,7 +17,7 @@ Ideas:
   * [https://ncase.me/nutshell/](https://ncase.me/nutshell/)&#x20;
 * If you're into math or science use [3Blue1Brown](https://www.youtube.com/3blue1brown)'s [manim ](https://3b1b.github.io/manim/)library to make a video that explains a math/science topic.&#x20;
 * Write a game for MS-DOS.&#x20;
-* If you're a beginner programmer maybe all you do is build your first website and make it look really fucking (don't curse but also add a word that has the same affect) cool.&#x20;
+* If you're a beginner programmer maybe all you do is build your first website and make it look really fucking (edit: don't curse but also add a word that has the same effect) cool.&#x20;
 * General things
   * [http://paulgraham.com/startupideas.html](http://paulgraham.com/startupideas.html)
   * [https://workshops.hackclub.com/](https://workshops.hackclub.com/)&#x20;
