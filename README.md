@@ -5,7 +5,7 @@ Some explainer of why this exists and how to use it. \
 
 We've also noticed that a lot of the projects our attendees end up building converge towards something relatively similar, and we wanted to provide inspiration for project ideas and pointers to interesting topics so that we have a diverse range of final submissions and everyone comes away from the event learning new things and building something they're proud of.
 
-This is our answer to that. (edit: this last sentence is stupid, figure out something better)&#x20;
+This is our answer to that. (edit: this last sentence is stupid, figure out something better. Also this entire thing is worded really badly and doesn't convey the intended vibe.)&#x20;
 
 TODO:
 
