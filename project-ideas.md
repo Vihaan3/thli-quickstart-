@@ -16,7 +16,7 @@ Ideas:
     * [https://ncase.itch.io/wbwwb](https://ncase.itch.io/wbwwb)
     * [https://aisafety.dance/](https://aisafety.dance/)
   * [https://ncase.me/nutshell/](https://ncase.me/nutshell/)&#x20;
-* If you're into math or science use [3Blue1Brown](https://www.youtube.com/3blue1brown)'s [manim ](https://3b1b.github.io/manim/)library to make a video that explains a math/science topic.&#x20;
+* If you're into math or science, use [3Blue1Brown](https://www.youtube.com/3blue1brown)'s [manim ](https://3b1b.github.io/manim/)library to make a video that explains a math/science topic. See [here](https://youtu.be/rbu7Zu5X1zI) for a video where Grant Sanderson shows how he uses manim (his version). **Note, this may be a good project to recommend to introductory programmers.**
 * Build a game for MS-DOS.&#x20;
 * If you're a beginner programmer maybe all you do is build your first website and make it look really fucking (edit: don't curse but also find a word that has the same effect) cool.&#x20;
 * General things
