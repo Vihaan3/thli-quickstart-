@@ -1,5 +1,3 @@
 # Game Development
 
-idk I haven't ever done it
-
-unity?
+**find a friend who does this and ask them**&#x20;
