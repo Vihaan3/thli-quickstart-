@@ -5,7 +5,6 @@
 * [Project Ideas](project-ideas.md)
 * [Web Dev](web-dev.md)
 * [Game Development](game-development.md)
-* [AI](ai.md)
-* [Data Analysis](data-analysis.md)
+* [Machine Learning](machine-learning.md)
 * [Animation](animation.md)
 * [Other Interesting Things](other-interesting-things.md)

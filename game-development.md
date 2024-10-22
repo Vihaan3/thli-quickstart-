@@ -1,3 +1,3 @@
 # Game Development
 
-**find a friend who does this and ask them**&#x20;
+**Edit: find a friend who's good at game dev and ask them for help here**
