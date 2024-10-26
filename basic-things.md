@@ -5,6 +5,10 @@
   * Install Git locally&#x20;
 * Set up an [IDE](https://en.wikipedia.org/wiki/Integrated\_development\_environment)/code editor
   * VS Code is a good starting option
+  * If you want to use an online editor (not highly recommended), check out:
+    * Replit (if you've ever used Replit before, note that it is now much more restrictive than it used to be)
+    * Glitch
+* It's highly recommended that you bring a mobile hotspot device or are prepared to use your phone as a mobile hotspot. We've done our best to make sure that Wi-Fi speeds will stay solid, but given the volume of attendees it doesn't hurt to stay safe.
 * Try to get to some level of basic coding proficiency (many people assume they can quickly pick everything up at the event and are sorely disappointed)
   * With a relatively small time investment, you can get to a baseline level of coding proficiency through Kaggle's [course](https://www.kaggle.com/learn/intro-to-programming).&#x20;
   * (Aside) Learning in the future:

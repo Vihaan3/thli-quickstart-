@@ -7,6 +7,8 @@ Hey! This is the starter guide for attendees at [TeenHacks LI's](https://teenhac
 
 We want you to treat this as less of a competition to win and more as a space where you can have fun, learn something new, and build projects you never would have taken the time to build otherwise. If you approach everything with **playful curiosity** and do whatever feels to you **excitingly ambitious**, you'll come out better than you came in!
 
+You can always reach us at thli@teenhacksli.com.&#x20;
+
 TODO:
 
 * [ ] Clean up all pages
