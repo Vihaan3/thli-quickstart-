@@ -24,7 +24,7 @@ Asides:
 
 ### Ideas
 
-The first word of any idea that seems especially beginner friendly will be marked like <mark style="color:red;">this</mark>_**.**_ Even if you think you already have a project idea, I would recommend going through these to see if they can inspire any other ideas and get a better understanding of the types of projects we would like people to work on.&#x20;
+The first word of any idea that seems especially beginner friendly will be marked like <mark style="color:red;">this</mark>_**.**_ Even if you think you already have a project idea, I would recommend going through these to see if they can inspire any other ideas, and to get a better understanding of the types of projects we want to encourage.&#x20;
 
 * If have some experience with AI, go deep and spend your time trying to implement a couple of research papers that interest you.&#x20;
   * [https://arxiv.org/pdf/1711.10563](https://arxiv.org/pdf/1711.10563) is a really cool one
@@ -43,7 +43,8 @@ The first word of any idea that seems especially beginner friendly will be marke
     * Introductory video [here](https://youtu.be/ZOPYB6dw4Os).
   * <mark style="color:red;">Design</mark> an [interactive art piece](https://blot.hackclub.com/) and get a plotter bot shipped to you.
   * Design a [circuit board](https://hackclub.com/onboard/) and get it shipped to you (this can be a side-project you can present alongside your core project).
-* If you want to be the resident big idea person, check out these places:
+* Create a [personal search engine](https://github.com/thesephist/monocle).
+* If you want to be the resident big idea person, check out these places (you might as well do it right):
   * [http://paulgraham.com/startupideas.html](http://paulgraham.com/startupideas.html)
   * [https://solve.mit.edu/](https://solve.mit.edu/)
   * [https://guzey.com/personal/what-should-you-do-with-your-life/](https://guzey.com/personal/what-should-you-do-with-your-life/)
