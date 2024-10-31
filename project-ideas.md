@@ -14,13 +14,13 @@
 
 We don't want you to build janky webapps that claim to solve complex issues (unless they genuinely seem to have the potential to do so).&#x20;
 
-You should work on something that is at least two of the following: wacky, cool, and a good learning experience. We would recommend that instead of stressing over having an amazing tech-startupy idea and working on a bare-bones execution of it, work on something that absolutely [nerd-snipes](https://xkcd.com/356/) you and will genuinely help you learn more. If you do happen to have a killer idea that you can't fully execute yet, go for it by all means, but know that _just_ having a good idea will be less valued at this event than at most other hackathons you may have been to in the past.&#x20;
+You should work on something that is at least two of the following: wacky, cool, and a good learning experience. Instead of stressing over having an amazing tech-startupy idea and working on a bare-bones execution of it, work on something that absolutely [nerd-snipes](https://xkcd.com/356/) you and will genuinely help you learn more. If you happen to have a killer idea that you think has a chance of genuine impact in the future, go for it by all means, but know that _just_ having a potentially impactful idea will be less valued at this event than at most other hackathons you may have been to in the past.&#x20;
 
 Asides:
 
 * Your project might not even have to be programming in the traditional sense (maybe you want to work with hardware or design a robot hand). You can always email us in advance or ask during the event to see if your idea will "count" (and we will most likely say yes!).&#x20;
 * If you know that you will _desperately_ need to pay for a tool, API credits, or something else, you can always reach out at finance@teenhacksli.com and we'll see what we can do.&#x20;
-* Hopefully, you continue working on a project you start here or that you were inspired to start working on after attending. If you do, reach out to the finance email with your finished project as well as a little personal story of how it has helped you develop. If our budget allows it, we would love to buy you a gift of $25-$150.&#x20;
+* Hopefully, you continue working on a project you start here or that you were inspired to start working on after attending. If you do, reach out to the finance email above with your finished project as well as a little personal story of how it has helped you develop. If our budget allows it, we would love to buy you a gift of $25-$150.&#x20;
 
 ### Ideas
 
