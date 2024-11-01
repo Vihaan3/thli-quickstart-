@@ -2,6 +2,8 @@
 
 **TODO: here, or in a separate page, add info about the run-of-show of the event itself and all formalities and technical details.**&#x20;
 
+Even if you already consider yourself a somewhat-experienced programmer, we would recommend reading through this page.
+
 * Create an account on Github&#x20;
   * Use this to learn how to use [git](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
   * Install Git locally&#x20;

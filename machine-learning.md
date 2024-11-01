@@ -1,13 +1,15 @@
 # Machine Learning
 
-* [Fast.ai](https://docs.fast.ai/tutorial.html) is definitely a good choice for a library if you're just getting started with machine learning. .&#x20;
+* [Fast.ai](https://docs.fast.ai/tutorial.html) is definitely a good choice for a library if you're just getting started with machine learning.&#x20;
 * [Kaggle](https://www.kaggle.com/) competitions are great for finding datasets and getting ideas for things to work on.
 * Image Classification
   * Fast.ai is definitely what you want to use here. Look through their tutorials to get an idea.&#x20;
-* Language Modeling&#x20;
+* Language Modeling (aka generating text)
   * Learn using Andrej Karpathy's [great introductory course](https://karpathy.ai/zero-to-hero.html). It goes from scratch to building a transformer. Extending on any of these significantly and/or implementing all of the coding exercises would be a valid project that would be both fun and an incredible learning experience.  &#x20;
-
-### Reinforcement Learning
-
-* [https://arena3-chapter2-rl.streamlit.app/](https://arena3-chapter2-rl.streamlit.app/\[2.2]\_Q-Learning\_and\_DQN) -> if you're already comfortable with rl, look at the end of each section for recommended exercises.
-* [https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) -> implement algorithms from the canonical tabular RL textbook.&#x20;
+* Reinforcement Learning
+  * The following two resources are great for both learning and finding ideas for projects to work on.&#x20;
+  * [https://arena3-chapter2-rl.streamlit.app/](https://arena3-chapter2-rl.streamlit.app/\[2.2]\_Q-Learning\_and\_DQN) -> if you're already comfortable with rl, look at the end of each section for bonus exercises if you want ideas.&#x20;
+  * [https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) -> implement algorithms from the canonical tabular RL textbook.&#x20;
+* General ideas if you already have experience:
+  * Get started on an autodiff library like [this](https://github.com/UlisseMini/light)
+  * Implement a neural net class from scratch in Numpy. Include normalization (batch norm, layer norm), gradient clipping, lr-scheduling, dropout, several different optimizers, activation functions, and more.

@@ -25,11 +25,12 @@ Asides:
 
 ### Ideas
 
-The first word of any idea that seems especially beginner friendly will be marked like <mark style="color:red;">this</mark>_**.**_ Even if you think you already have a project idea, I would recommend going through these to see if they can inspire any other ideas, and to get a better understanding of the types of projects we want to encourage.&#x20;
+The first word of any idea that seems especially beginner friendly will be marked like <mark style="color:red;">this</mark>_**.**_ Even if you think you already have a project idea, we would recommend going through these to see if they can inspire any other ideas, and to get a better understanding of the types of projects we want to encourage.&#x20;
 
 * If have some experience with AI, go deep and spend your time trying to implement a couple of research papers that interest you.&#x20;
   * [https://arxiv.org/pdf/1711.10563](https://arxiv.org/pdf/1711.10563) is a really cool one
-  * get started on an autodiff library like [this](https://github.com/UlisseMini/light)
+  * Get started on an autodiff library like [this](https://github.com/UlisseMini/light)
+  * Implement a neural net class from scratch in Numpy. Include normalization (batch norm, layer norm), gradient clipping, lr-scheduling, dropout, several different optimizers, activation functions, and more.
   * see more ideas [here](machine-learning.md)
 * <mark style="color:red;">If</mark> there's a field you find exciting (history, econ, physics, etc), learn about a fun new topic and then make an interactive Nicky Case-esque explainer.
   * Some cool pieces by Nicky Case:
