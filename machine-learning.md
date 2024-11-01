@@ -1,16 +1,11 @@
 # Machine Learning
 
-If you are a beginner and want fast results and don't care too much about understanding everything, [fast.ai](https://docs.fast.ai/tutorial.html) is definitely the best library for deep learning.&#x20;
-
-Kaggle comps are great for finding datasets and open problems to work on
-
-### Image Classification/Computer Vision
-
-Fast.ai is definitely what you want to use here. [https://docs.fast.ai/tutorial.vision.html](https://docs.fast.ai/tutorial.vision.html)
-
-### Language Modeling (building a language model)
-
-[https://karpathy.ai/zero-to-hero.html](https://karpathy.ai/zero-to-hero.html) -> specifically the second to last one
+* [Fast.ai](https://docs.fast.ai/tutorial.html) is definitely a good choice for a library if you're just getting started with machine learning. .&#x20;
+* [Kaggle](https://www.kaggle.com/) competitions are great for finding datasets and getting ideas for things to work on.
+* Image Classification
+  * Fast.ai is definitely what you want to use here. Look through their tutorials to get an idea.&#x20;
+* Language Modeling&#x20;
+  * Learn using Andrej Karpathy's [great introductory course](https://karpathy.ai/zero-to-hero.html). It goes from scratch to building a transformer. Extending on any of these significantly and/or implementing all of the coding exercises would be a valid project that would be both fun and an incredible learning experience.  &#x20;
 
 ### Reinforcement Learning
 

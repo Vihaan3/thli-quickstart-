@@ -1,5 +1,7 @@
 # Web Dev
 
+**TODO: find a friend who's good at web dev and ask them for help here. Make this page quite extensive with resources because it is something many people will be interested in.**&#x20;
+
 * Actual Development
   * Using HTML, CSS, and JS is the traditional default, but there are _tons_ of frameworks you can use.&#x20;
     * Tailwind, Astro, Svelte are all popular front-end wise
@@ -11,5 +13,3 @@
 * Hosting
   * Github pages (for a static website)
   * Vercel (especially if you're working with Next)
-
-**Edit: find a friend who's good at web dev and ask them for help here. Make this page quite extensive with resources because it is something many people will be interested in.**&#x20;
