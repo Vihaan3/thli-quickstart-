@@ -19,9 +19,9 @@ You should work on something that is at least two of the following: wacky, cool,
 Asides:
 
 * Your project might not even have to be programming in the traditional sense (maybe you want to work with hardware or design a robot hand). You can always email us in advance or ask during the event to see if your idea will "count" (and we will most likely say yes!).&#x20;
-* If you know that you will _desperately_ need to pay for a tool, API credits, or something else, you can always reach out at finance@teenhacksli.com and we'll see what we can do.&#x20;
+* If you know that you will _desperately_ need to pay for a tool, API credits, or something else, you can always reach out at finance@teenhacksli.com (cc vihaan.sondhi@teenhacksli.com) and we'll see what we can do.&#x20;
 * You _do not_ have to finish your project during this event. We just want to provide you with the space and environment to get started on something awesome. &#x20;
-  * Hopefully, you continue working on a project you start here or that you were inspired to start working on after attending. If you do, reach out to the finance email above with your finished project as well as a little personal story of how it has helped you develop. If our budget allows it, we would love to buy you a gift of $25-$150 in appreciation of your awesomeness!&#x20;
+  * Hopefully, you continue working on a project you start here or that you were inspired to start working on after attending. If you do, reach out to the finance emails above with your finished project as well as a little personal story of how it has helped you develop. If our budget allows it, we would love to buy you a gift of $25-$150 in appreciation of your awesomeness!&#x20;
 
 ### Ideas
 
