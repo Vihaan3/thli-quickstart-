@@ -27,13 +27,13 @@ Asides:
 
 The first word of any idea that seems especially beginner friendly will be marked like <mark style="color:red;">this</mark>_**.**_ Even if you think you already have a project idea, we would recommend going through these to see if they can inspire any other ideas, and to get a better understanding of the types of projects we want to encourage.&#x20;
 
-* If have some experience with AI, go deep and spend your time trying to implement a couple of research papers that interest you.&#x20;
+* If have some experience with AI, go deep and spend your time trying to implement a couple of research papers that interest you. We have a $50 prize for awesome ML projects. See the ML section for more details.
   * [https://arxiv.org/pdf/1711.10563](https://arxiv.org/pdf/1711.10563) is a really cool one
   * Get started on an autodiff library like [this](https://github.com/UlisseMini/light)
   * Implement a neural net class from scratch in Numpy. Include normalization (batch norm, layer norm), gradient clipping, lr-scheduling, dropout, several different optimizers, activation functions, and more.
   * see more ideas [here](machine-learning.md)
-* <mark style="color:red;">If</mark> there's a field you find exciting (history, econ, physics, etc), learn about a fun new topic and then make an interactive Nicky Case-esque explainer.
-  * Some cool pieces by Nicky Case:
+* <mark style="color:red;">If</mark> there's a field you find exciting (history, econ, physics, etc), learn about a fun new topic and then make an interactive Nicky Case-esque or 3Blue1Brown-esque explainer. We have a $50 prize for awesome projects here. See the animation section for more information, but note that the prize **also applies** to Nicky Case-esque projects.
+  * Some cool pieces by Nicky Case for inspo:
     * [https://ncase.me/trust/](https://ncase.me/trust/)
     * [https://ncase.me/anxiety/](https://ncase.me/anxiety/)
     * [https://ncase.itch.io/wbwwb](https://ncase.itch.io/wbwwb)

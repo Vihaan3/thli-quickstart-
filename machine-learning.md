@@ -1,5 +1,6 @@
 # Machine Learning
 
+* **We have a $50 prize for anyone who builds a **_**really**_** cool ML project.** Caveat: the prize may not go to anyone. There's a reason that there's an emphasis on really. You can seek out Vihaan Sondhi, Kyle Lee, and/or Dean Chen at the event to see if your project idea might qualify or email one of them in advance at first\_name dot last\_name @teenhacksli.com.&#x20;
 * [Fast.ai](https://docs.fast.ai/tutorial.html) is definitely a good choice for a library if you're just getting started with machine learning.&#x20;
 * [Kaggle](https://www.kaggle.com/) competitions are great for finding datasets and getting ideas for things to work on.
 * Image Classification
