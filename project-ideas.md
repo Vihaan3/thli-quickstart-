@@ -48,9 +48,10 @@ The first word of any idea that seems especially beginner friendly will be marke
   * <mark style="color:red;">Design</mark> an [interactive art piece](https://blot.hackclub.com/) and get a plotter bot shipped to you.
   * <mark style="color:red;">Design</mark> a [circuit board](https://hackclub.com/onboard/) and get it shipped to you (this can be a side-project you can present alongside your core project).
 * Create a [personal search engine](https://github.com/thesephist/monocle).
-* If you want to be the resident big idea person, check out these places (you might as well do it right):
+* If you want to be the resident big idea person, check out these places (if you're going to be that person, you might as well do it right):
   * [http://paulgraham.com/startupideas.html](http://paulgraham.com/startupideas.html)
   * [https://solve.mit.edu/](https://solve.mit.edu/)
   * [https://guzey.com/personal/what-should-you-do-with-your-life/](https://guzey.com/personal/what-should-you-do-with-your-life/)
     * especially [https://www.ycombinator.com/rfs/](https://www.ycombinator.com/rfs/) and [https://docs.google.com/document/d/1Vb8WWbsVyEJzl66\_qqtZfFr2uLL07Y7SJH5XKldjDPY/edit](https://docs.google.com/document/d/1Vb8WWbsVyEJzl66\_qqtZfFr2uLL07Y7SJH5XKldjDPY/edit)
   * Think of something that has really annoyed you recently. Can you automate that or build something that will make it less annoying?
+* If you don't have any other ideas and none of these appeal to you, a good fallback is to just think about your hobbies (sports, art, music, cinema, crochet, etc) and build a project around them.&#x20;
