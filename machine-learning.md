@@ -14,5 +14,5 @@
 * General ideas if you already have experience:
   * Get started on an autodiff library like [this](https://github.com/UlisseMini/light)
   * Implement a neural net class from scratch in Numpy. Include normalization (batch norm, layer norm), gradient clipping, lr-scheduling, dropout, several different optimizers, activation functions, and more.
-* For relatively cheap GPU rental, check out [Vast.ai](https://vast.ai/) and [Lambda Labs](https://lambdalabs.com/)
-  * If you anticipate that this will be a bottleneck for you, email us at finance@teenhacksli.com (cc vihaan.sondhi@teenhacksli.com) and we'll see if we can help you out.&#x20;
+* For relatively cheap GPU rental, check out [Vast.ai](https://vast.ai/) and [Lambda Labs](https://lambdalabs.com/), but Google Colab should be sufficient for most projects.
+  * If you anticipate that paying for GPU rental will be a bottleneck for you, email us at finance@teenhacksli.com (cc vihaan.sondhi@teenhacksli.com) and we'll see if we can help you out.&#x20;
