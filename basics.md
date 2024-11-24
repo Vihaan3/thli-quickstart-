@@ -1,19 +1,18 @@
 # Basics
 
-**TODO: here, or in a separate page, add info about the run-of-show of the event itself and all formalities and technical details.**&#x20;
+Even if you already consider yourself an experienced hackathon attendee, we would recommend reading through this page entirely.
 
-Even if you already consider yourself a somewhat-experienced programmer, we would recommend reading through this page.
+### Coding-related
 
 * Create an account on Github&#x20;
   * Use this to learn how to use [git](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
   * Install Git locally&#x20;
-* Set up an [IDE](https://en.wikipedia.org/wiki/Integrated\_development\_environment)/code editor
+* Set up an [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)/code editor
   * VS Code is a good starting option
   * If you want to use an online editor (not highly recommended), check out:
     * Replit (if you've ever used Replit before, note that it is now much more restrictive than it used to be)
     * Glitch
 * You can look [here](https://free-for.dev) for free resources for anything you might need.
-* It's highly recommended that you bring a mobile hotspot device or are prepared to use your phone as a mobile hotspot. We've done our best to make sure that Wi-Fi speeds will stay solid, but given the volume of attendees it doesn't hurt to stay safe.
 * Try to get to some level of basic coding proficiency (many people assume they can quickly pick everything up at the event and are sorely disappointed)
   * With a relatively small time investment, you can get to a baseline level of coding proficiency through Kaggle's [course](https://www.kaggle.com/learn/intro-to-programming).&#x20;
   * (Aside) Learning in the future:
@@ -23,3 +22,31 @@ Even if you already consider yourself a somewhat-experienced programmer, we woul
     * There's no clear evidence that any method is better than the other so be very in tune with yourself. If you feel like you aren't learning best in your current method, switch to something else. Don't fall prey to the [sunk cost fallacy](https://www.google.com/search?q=sunk+cost+fallacy\&oq=sunk+cost+fallacy\&sourceid=chrome\&ie=UTF-8)!
       * In general, it might be better to have less of a "I'm learning how to program mindset" and more of a "I'm becoming a programmer." You can never completely "learn" programming. [Stop trying to try and try.](https://mindingourway.com/stop-trying-to-try-and-try/)
 * If you're pushing yourself out of your comfort zone, you _will_ most likely have to search things up and ask others for help. Don't be ashamed of that. Again, you can never really completely learn coding, and most people agree that learning how to do things based on projects you want to build is better than memorizing a ton of things just because you expect to use them in the future.&#x20;
+
+### Schedule
+
+
+
+### Checklist
+
+* It's highly recommended that you bring a mobile hotspot device or are prepared to use your phone as a mobile hotspot. We've done our best to make sure that Wi-Fi speeds will stay solid, but given the volume of attendees it doesn't hurt to stay safe.
+
+
+
+### Menu
+
+
+
+### Prizes
+
+* Popular Vote:&#x20;
+* Best Beginner Project:&#x20;
+  * You qualify if at least 50% of your team are beginners and they had provably high-quality contributions to your project.&#x20;
+* &#x20;Special Prizes:
+  * $100 Prizes for:
+    * Exceptional ML projects
+    * Exceptional games
+    * Exceptional 3Blue1Brown-esque projects
+    * The prize for a certain category may not be awarded at all, or may go to multiple teams. It's based on our discretion.&#x20;
+  * Long-term prize:
+    * If you decide to continue working on a project that you started here for fun, show us the finished product and we'll give you a gift of $25-$150 if it makes sense for us financially. See [project ideas](project-ideas.md) for more info.

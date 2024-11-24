@@ -8,7 +8,7 @@
 >
 > What are you excessively curious about — curious to a degree that would bore most other people? That's what you're looking for.
 >
-> \-Paul Graham, [How to Do Great Work](https://paulgraham.com/greatwork.html)
+> -Paul Graham, [How to Do Great Work](https://paulgraham.com/greatwork.html)
 
 **For us, the primary goals of this hackathon are to help you improve as a programmer and have fun doing it.** We want to feed your intellectual curiosity and hopefully get you started on long-term projects or goals. We want to help you focus on [sustainable learning instead of "blind creation".](https://jzhao.xyz/posts/hackathons#sustainable-learning)&#x20;
 
@@ -49,9 +49,9 @@ The first word of any idea that seems especially beginner friendly will be marke
   * <mark style="color:red;">Design</mark> a [circuit board](https://hackclub.com/onboard/) and get it shipped to you (this can be a side-project you can present alongside your core project).
 * Create a [personal search engine](https://github.com/thesephist/monocle).
 * If you want to be the resident big idea person, check out these places (if you're going to be that person, you might as well do it right):
-  * [http://paulgraham.com/startupideas.html](http://paulgraham.com/startupideas.html)
-  * [https://solve.mit.edu/](https://solve.mit.edu/)
-  * [https://guzey.com/personal/what-should-you-do-with-your-life/](https://guzey.com/personal/what-should-you-do-with-your-life/)
-    * especially [https://www.ycombinator.com/rfs/](https://www.ycombinator.com/rfs/) and [https://docs.google.com/document/d/1Vb8WWbsVyEJzl66\_qqtZfFr2uLL07Y7SJH5XKldjDPY/edit](https://docs.google.com/document/d/1Vb8WWbsVyEJzl66\_qqtZfFr2uLL07Y7SJH5XKldjDPY/edit)
-  * Think of something that has really annoyed you recently. Can you automate that or build something that will make it less annoying?
-* If you don't have any other ideas and none of these appeal to you, a good fallback is to just think about your hobbies (sports, art, music, cinema, crochet, etc) and build a project around them.&#x20;
+  * [How to Get Startup Ideas](http://paulgraham.com/startupideas.html)
+  * Some important problems that you can be inspired by
+    * [MIT Solve](https://solve.mit.edu/) and [What Should You Do with Your Life](https://guzey.com/personal/what-should-you-do-with-your-life/)
+      * especially [Y Combinator's Requests for Startups](https://www.ycombinator.com/rfs/) and [World's Hardest Problems](https://docs.google.com/document/d/1Vb8WWbsVyEJzl66_qqtZfFr2uLL07Y7SJH5XKldjDPY/edit?tab=t.0)
+    * Think of something that has really annoyed you recently. Can you automate that or build something that will make it less annoying?
+* If none of these appeal to you and you don't have any other ideas, a good fallback is to just think about your hobbies (sports, art, music, cinema, reading, crochet, etc) and build a project around them.&#x20;
