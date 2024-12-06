@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
+* [FAQ](faq.md)
 * [Basics](basics.md)
 * [Asking for help](asking-for-help.md)
 * [Project Ideas](project-ideas.md)

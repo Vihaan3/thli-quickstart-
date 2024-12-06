@@ -41,7 +41,7 @@ Even if you already consider yourself an experienced hackathon attendee, we woul
 
 * Popular Vote:&#x20;
 * Best Beginner Project:&#x20;
-  * You qualify if at least 50% of your team are beginners and they had provably high-quality contributions to your project.&#x20;
+  * You qualify if at least 50% of your team are beginners and they contributed to your project.&#x20;
 * &#x20;Special Prizes:
   * $100 Prizes for:
     * Exceptional ML projects
