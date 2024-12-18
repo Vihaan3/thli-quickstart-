@@ -8,4 +8,4 @@
   * [Flappy Bird w/ Unity](https://youtu.be/XtQMytORBmM)
   * [Gamemaker Tutorial](https://gamemaker.hackclub.dev/)
   * [Hack Club Workshops ](https://workshops.hackclub.com/#games)
-* Don't overcomplicate it. Brainstorm a game that would be fun to play and figure out a way to create it starting with whatever programming knowledge you have. If it ended up being too simple, add interesting new quirks.
+* Don't overcomplicate it. Brainstorm a game that would be fun to play and figure out a way to create it starting with whatever programming knowledge you have. If it ends up being too simple, add interesting new quirks.

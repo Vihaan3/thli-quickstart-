@@ -27,17 +27,20 @@ Asides:
 
 The first word of any idea that seems especially beginner friendly will be marked like <mark style="color:red;">this</mark>_**.**_ Even if you think you already have a project idea, we would recommend going through these to see if they can inspire any other ideas, and to get a better understanding of the types of projects we want to encourage.&#x20;
 
-* If have some experience with AI, go deep and spend your time trying to implement a couple of research papers that interest you. We have a $50 prize for awesome ML projects. See the ML section for more details.
-  * [https://arxiv.org/pdf/1711.10563](https://arxiv.org/pdf/1711.10563) is a really cool one
-  * Get started on an autodiff library like [this](https://github.com/UlisseMini/light)
-  * Implement a neural net class from scratch in Numpy. Include normalization (batch norm, layer norm), gradient clipping, lr-scheduling, dropout, several different optimizers, activation functions, and more.
-  * see more ideas [here](machine-learning.md)
+* We have a $50 prize for awesome ML projects. See the ML section for more details.
+  * If have a good amount of prior experience:
+    * go deep and spend your time trying to implement a couple of research papers that interest you.&#x20;
+      * [https://arxiv.org/pdf/1711.10563](https://arxiv.org/pdf/1711.10563) is a really cool one
+    * Get started on an autodiff library like [this](https://github.com/UlisseMini/light)
+    * Implement a neural net class from scratch in Numpy. Include normalization (batch norm, layer norm), gradient clipping, lr-scheduling, dropout, several different optimizers, activation functions, and more.
+    * see more ideas [here](machine-learning.md)
+      * you can email vihaan.sondhi@teenhacksli.com, and he would love to talk more with you about your experience and the types of projects that might be fun to do
 * <mark style="color:red;">If</mark> there's a field you find exciting (history, econ, physics, etc), learn about a fun new topic and then make an interactive Nicky Case-esque or 3Blue1Brown-esque explainer. We have a $50 prize for awesome projects here. See the animation section for more information, but note that the prize **also applies** to Nicky Case-esque projects.
   * Some cool pieces by Nicky Case for inspo:
     * [https://ncase.me/trust/](https://ncase.me/trust/)
     * [https://ncase.me/anxiety/](https://ncase.me/anxiety/)
     * [https://ncase.itch.io/wbwwb](https://ncase.itch.io/wbwwb)
-  * For math and science particularly, use [3Blue1Brown](https://www.youtube.com/3blue1brown)'s [manim](https://www.manim.community/) library to make a video that explains a math/science topic. See [here](https://youtu.be/rbu7Zu5X1zI) for a video where Grant Sanderson shows how he uses manim (his version).&#x20;
+  * <mark style="color:red;">For</mark> math and science particularly, use [3Blue1Brown](https://www.youtube.com/3blue1brown)'s [manim](https://www.manim.community/) library to make a video that explains a math/science topic. See [here](https://youtu.be/rbu7Zu5X1zI) for a video where Grant Sanderson shows how he uses manim (his version).&#x20;
 * Inspired by [Hack Club](https://hackclub.com/) (we aren't affiliated directly with Hack Club but highly encourage you to join) &#x20;
   * <mark style="color:red;">If</mark> you're a beginner (or even not) programmer: a worthwhile project can be to build a website and make it look _**awesome**_. You can even get [free boba](https://boba.hackclub.com/) for it from Hack Club!
   * [Build a game for MS-DOS. ](https://retrospect.hackclub.com/dos)This "you ship we ship" is sadly over, but great for inspiration.

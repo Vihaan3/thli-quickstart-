@@ -25,17 +25,23 @@ Even if you already consider yourself an experienced hackathon attendee, we woul
 
 ### Schedule
 
-
+* _To be determined_
 
 ### Checklist
 
+* Laptop&#x20;
+  * Laptop charger
+* Phone&#x20;
+  * Phone charger&#x20;
+* ID, Wallet, Keys, etc
+* Medications
+* Earbuds/Headphones
+* Water&#x20;
 * It's highly recommended that you bring a mobile hotspot device or are prepared to use your phone as a mobile hotspot. We've done our best to make sure that Wi-Fi speeds will stay solid, but given the volume of attendees it doesn't hurt to stay safe.
-
-
 
 ### Menu
 
-
+* _To be determined, but we will try our best to accommodate all dietary restrictions._
 
 ### Prizes
 
