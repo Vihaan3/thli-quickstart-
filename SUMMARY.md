@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [FAQ](faq.md)
+* [Code of Conduct](code-of-conduct.md)
 * [Basics](basics.md)
 * [Asking for help](asking-for-help.md)
 * [Project Ideas](project-ideas.md)
