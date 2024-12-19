@@ -1,8 +1,4 @@
-# Basics
-
-Even if you already consider yourself an experienced hackathon attendee, we would recommend reading through this page entirely.
-
-### Coding-related
+# Coding-Related Basics
 
 * Create an account on Github&#x20;
   * Use this to learn how to use [git](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
@@ -22,37 +18,3 @@ Even if you already consider yourself an experienced hackathon attendee, we woul
     * There's no clear evidence that any method is better than the other so be very in tune with yourself. If you feel like you aren't learning best in your current method, switch to something else. Don't fall prey to the [sunk cost fallacy](https://www.google.com/search?q=sunk+cost+fallacy\&oq=sunk+cost+fallacy\&sourceid=chrome\&ie=UTF-8)!
       * In general, it might be better to have less of a "I'm learning how to program mindset" and more of a "I'm becoming a programmer." You can never completely "learn" programming. [Stop trying to try and try.](https://mindingourway.com/stop-trying-to-try-and-try/)
 * If you're pushing yourself out of your comfort zone, you _will_ most likely have to search things up and ask others for help. Don't be ashamed of that. Again, you can never really completely learn coding, and most people agree that learning how to do things based on projects you want to build is better than memorizing a ton of things just because you expect to use them in the future.&#x20;
-
-### Schedule
-
-* _To be determined_
-
-### Checklist
-
-* Laptop&#x20;
-  * Laptop charger
-* Phone&#x20;
-  * Phone charger&#x20;
-* ID, Wallet, Keys, etc
-* Medications
-* Earbuds/Headphones
-* Water&#x20;
-* It's highly recommended that you bring a mobile hotspot device or are prepared to use your phone as a mobile hotspot. We've done our best to make sure that Wi-Fi speeds will stay solid, but given the volume of attendees it doesn't hurt to stay safe.
-
-### Menu
-
-* _To be determined, but we will try our best to accommodate all dietary restrictions._
-
-### Prizes
-
-* Popular Vote:&#x20;
-* Best Beginner Project:&#x20;
-  * You qualify if at least 50% of your team are beginners and they contributed to your project.&#x20;
-* &#x20;Special Prizes:
-  * $100 Prizes for:
-    * Exceptional ML projects
-    * Exceptional games
-    * Exceptional 3Blue1Brown-esque projects
-    * The prize for a certain category may not be awarded at all, or may go to multiple teams. It's based on our discretion.&#x20;
-  * Long-term prize:
-    * If you decide to continue working on a project that you started here for fun, show us the finished product and we'll give you a gift of $25-$150 if it makes sense for us financially. See [project ideas](project-ideas.md) for more info.
