@@ -10,4 +10,6 @@
 
 **What kinds of projects will I be building?:** Whatever you want, but hopefully you'll take some inspiration from [here](../projects/project-ideas.md) and build something that helps you learn and become better as a programmer.
 
+**What about food?**: We'll have free lunch (pizza). If you have any dietary restrictions/concerns, let us know and we'll do our best to help you out (but bring some snacks in case).&#x20;
+
 **What if my parents have concerns?**: If it helps, we would love to get on a call with your parents or answer any questions through email. You can email us at thli@teenhacksli.com (cc laura.zhang@teenhacksli.com). &#x20;
