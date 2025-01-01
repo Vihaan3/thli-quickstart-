@@ -18,7 +18,14 @@
 
 ### Menu
 
-* _To be determined, but we will try our best to accommodate all dietary restrictions._
+* Pizza
+  * Cheese
+  * Vegetable
+  * Vegan
+  * Pepperoni
+  * Sausage
+* Kosher: Veg. Dumplings
+* Drinks: Water, Lemonade, Iced Tea
 
 ### Prizes
 
@@ -26,7 +33,7 @@
 * Best Beginner Project:&#x20;
   * You qualify if at least 50% of your team are beginners and they contributed to your project.&#x20;
 * &#x20;Special Prizes:
-  * $100 Prizes for:
+  * $100 Prizes (divided for teams) for:
     * Exceptional ML projects
     * Exceptional games
     * Exceptional 3Blue1Brown-esque projects
