@@ -1,6 +1,10 @@
 # General Details
 
-### Schedule
+### Location
+
+* University Center Ballroom at Adelphi University. Address: 1 South Ave, Garden City, 11530 (Second Floor). Show up at the University Center Lobby by Starbucks from 7:30-9:00 AM (the earlier the better as the event will officially begin by 8:00/8:15).
+
+### Run-of Show
 
 * _To be determined_
 
